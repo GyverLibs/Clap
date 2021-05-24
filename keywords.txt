@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For Clap
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Clap	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+tick	KEYWORD2
+setTrsh	KEYWORD2
+setTimeout	KEYWORD2
+isClap	KEYWORD2
+hasClaps	KEYWORD2
+getClaps	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # clap
 ### The library is incompatible with the current version of VolAnalyzer
 Library for detecting claps into a microphone (recommended in conjunction with VolAnalyzer.h)

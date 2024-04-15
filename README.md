@@ -1,6 +1,5 @@
 [![latest](https://img.shields.io/github/v/release/GyverLibs/Clap.svg?color=brightgreen)](https://github.com/GyverLibs/Clap/releases/latest/download/Clap.zip)
 [![PIO](https://badges.registry.platformio.org/packages/gyverlibs/library/Clap.svg)](https://registry.platformio.org/libraries/gyverlibs/Clap)
-[![arduino-library](https://www.ardu-badge.com/badge/Clap.svg?)](https://www.ardu-badge.com/Clap)
 [![PIO](https://badges.registry.platformio.org/packages/gyverlibs/library/Clap.svg)](https://registry.platformio.org/libraries/gyverlibs/Clap)
 [![arduino-library](https://www.ardu-badge.com/badge/Clap.svg?)](https://www.ardu-badge.com/Clap)
 [![Foo](https://img.shields.io/badge/Website-AlexGyver.ru-blue.svg?style=flat-square)](https://alexgyver.ru/)
